@@ -14,6 +14,7 @@ $timeout(function(){
 
 $scope.showPopup = function(){
   $scope.view.wdg['infoPopup']['visible'] = true;
+};
 
 
 $scope.hidePopup = function(){
